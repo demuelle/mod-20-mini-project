@@ -63,7 +63,7 @@ const FilmSearch = () => {
             onChange={(e) => setSearchInput(e.target.value)}
           />
           <button type='submit' id='searchBtn'>
-            Search
+            Fidn that FIlm!
           </button>
         </form>
       </section>
